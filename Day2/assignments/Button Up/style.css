@@ -1,0 +1,20 @@
+.top {
+    background-color: black;
+    color: white;
+}
+span {
+    color: cyan;
+}
+.middle {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+
+.lower {
+    background-color: lightblue;
+    color: black;
+text-align: right;
+}
