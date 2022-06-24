@@ -1,0 +1,27 @@
+.Search {
+    height: auto;
+    border-inline-start-width: 20px;
+    border-radius: 15px;
+    color: rgb(49, 216, 160);
+    border-color: rgb(49, 216, 160) ;
+    background-color: white;   
+
+}
+
+.Plus {
+    height: fit-content;
+    border-radius: 50px;
+    color: white;
+    border-color:  rgb(49, 216, 160);
+    background-color:  rgb(49, 216, 160);
+
+}
+
+
+.Create  {
+    height: auto;
+    border-inline-start-width: 20px;
+    border-block-color:  rgb(17, 128, 238);
+    background-color:  rgb(17, 128, 238);
+    box-shadow: 10px;
+}
