@@ -1,0 +1,58 @@
+.container {
+    height: 900px;
+    width: 900px;
+background-color: rgb(204, 213, 213);
+text-align: center; color: rgb(72, 72, 66);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#box1 {
+    height: 200px;
+    width: 800px;
+    background-color: #a0d6f7;
+    margin: 20px;
+    color: silver;
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+
+
+}
+
+img {
+    height: 180px;
+
+}
+
+#box2 {
+    height: 200px;
+    width: 800px;
+    background-color: rgb(254, 189, 246);
+    margin: 20px;
+    color: silver;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+
+}
+
+
+#box3 {
+    height: 200px;
+    width: 800px;
+background-color: white;
+margin: 20px;
+color: silver;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 20px;
+
+}
+
+a {
+    color: rgb(97, 225, 253);
+    
+}
